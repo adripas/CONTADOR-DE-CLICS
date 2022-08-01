@@ -20,7 +20,7 @@ return (
         <img 
         className='freecodecamp-logo' 
         src={freeCodeCampLogo }
-        alt='Logo  de freeCodeCamp '
+        alt='Logo  de freeCodeCamp peri '
         />
       </div>
       <div className='contenedor-principal'>
